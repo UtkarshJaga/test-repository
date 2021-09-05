@@ -8,6 +8,6 @@ python app.py
 
 # Description
 
-## implementation
+## Implementation
 
 this project is implemented using flask and is a REST API a store.
